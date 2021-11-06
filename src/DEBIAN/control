@@ -1,4 +1,4 @@
-Package: chromium-kiosk
+Package: chromium-taskstation
 Version: 1.0.0.__datestamp__
 Architecture: all
 Maintainer: Dave Bevan <dave.bevan@fbc.org.uk>
@@ -7,5 +7,5 @@ Recommends: libx11-6, libxext6, libxt6
 Section: web
 Priority: optional
 Installed-Size: 1000
-Description: Generic Chromium Kiosk on Ubuntu Server 20.04
- Installer to turn an Ubuntu Server into a dedicated web kiosk/task station
+Description: Generic Chromium Taskstation aka Kiosk on Ubuntu Server 20.04
+ Installer to turn an Ubuntu Server into a dedicated web kiosk or task station
