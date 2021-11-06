@@ -1,2 +1,2 @@
-# chromium-kiosk
-Chromium Kiosk for Ubuntu Server 20.04
+# chromium-taskstation
+Chromium Taskstation / Kiosk for Ubuntu Server 20.04
