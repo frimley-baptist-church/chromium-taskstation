@@ -1,0 +1,11 @@
+Package: chromium-kiosk
+Version: 1.0.0.__datestamp__
+Architecture: all
+Maintainer: Dave Bevan <dave.bevan@fbc.org.uk>
+Depends: chromium-browser, xinit, mingetty, x11-xserver-utils, ratpoison, gstreamer1.0-libav, gstreamer1.0-plugins-good, xorg, xserver-xorg-legacy
+Recommends: libx11-6, libxext6, libxt6
+Section: web
+Priority: optional
+Installed-Size: 1000
+Description: Generic Chromium Kiosk on Ubuntu Server 20.04
+ Installer to turn an Ubuntu Server into a dedicated web kiosk/task station
